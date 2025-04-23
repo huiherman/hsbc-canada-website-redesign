@@ -2,13 +2,13 @@
 
 **Project Role**: Digital Project Manager  
 **Organization**: HSBC Canada  
-**Tools Used**: TeamSite, HTML, CSS, JavaScript, XML  
+**Tools Used**: Adobe Experience Manager, TeamSite, HTML, CSS, JavaScript, XML  
 **Archived Link**: [View on Wayback Machine (Aug 5, 2019)](https://web.archive.org/web/20190805055759/https://www.hsbc.ca/)
 
 ---
 
 ## 📌 Executive Summary
-As the Digital Project Manager, I led the redesign and successful deployment of HSBC.ca, HSBC Canada’s public-facing website. This major initiative enhanced digital banking experience, improved content delivery across lines of business, and ensured compliance with accessibility and performance standards. The project involved full website redevelopment, cross-functional collaboration, and strategic oversight.
+As the Digital Project Manager, I led the redesign and successful deployment of HSBC.ca, HSBC Canada’s public-facing website. This major initiative enhanced the digital banking experience, improved content delivery across lines of business, and ensured compliance with accessibility and performance standards. The project involved full website redevelopment, cross-functional collaboration, and strategic oversight.
 
 ---
 
@@ -37,15 +37,16 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 
 ## 📚 Learnings
 - Honed skills in leading complex digital transformations in a regulated environment.
-- Developed deep working knowledge of CMS platforms like TeamSite.
+- Developed deep working knowledge of CMS platforms like Adobe Experience Manager and TeamSite.
 - Gained valuable experience balancing compliance, design, and user needs.
 
 ---
 
-## 🖼️ Screenshots (Optional)
+## 🖼️ Screenshots
 
-> Add screenshots from the Wayback Machine to visually show your work.
-> You can upload `.png` images in the repo and embed them here.
+```markdown
+![Homepage 2019](./homepage-2018.png)
+```
 
 ```markdown
 ![Homepage 2019](./homepage-2019.png)
@@ -65,4 +66,4 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 **Author**: Herman Hui  
 **Role**: Digital Project Manager (2016–2022)  
 **LinkedIn**: [linkedin.com/in/huiherman](https://www.linkedin.com/in/huiherman)  
-**Portfolio**: [huiherman.github.io](https://huiherman.github.io) *(optional)*
+
