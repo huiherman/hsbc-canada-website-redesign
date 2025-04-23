@@ -23,10 +23,10 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 
 ## 🔍 Before and After Comparison
 
-- **Before Redesign** – [HSBC.ca (2018)](https://web.archive.org/web/20180301014954/http://www.hsbc.ca/1/2/personal)
+- **Before Redesign (archived link)** – [HSBC.ca (2018)](https://web.archive.org/web/20180301014954/http://www.hsbc.ca/1/2/personal)
 - Screenshot: [Homepage 2018](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2018.png)
   
-- **After Redesign** – [HSBC.ca (2019)](https://web.archive.org/web/20190805055759/https://www.hsbc.ca/)
+- **After Redesign (archived link)** – [HSBC.ca (2019)](https://web.archive.org/web/20190805055759/https://www.hsbc.ca/)
 - Screenshot:[Homepage 2019](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2019.png)
 
 ---
