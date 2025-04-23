@@ -23,8 +23,11 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 
 ## 🔍 Before and After Comparison
 
-- **Before Redesign** – [HSBC.ca (2018)](https://web.archive.org/web/20180301014954/http://www.hsbc.ca/1/2/personal)  
+- **Before Redesign** – [HSBC.ca (2018)](https://web.archive.org/web/20180301014954/http://www.hsbc.ca/1/2/personal)
+- Screenshot: [Homepage 2018](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2018.png)
+  
 - **After Redesign** – [HSBC.ca (2019)](https://web.archive.org/web/20190805055759/https://www.hsbc.ca/)
+- Screenshot:[Homepage 2019](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2019.png)
 
 ---
 
@@ -39,17 +42,6 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 - Honed skills in leading complex digital transformations in a regulated environment.
 - Developed deep working knowledge of CMS platforms like Adobe Experience Manager and TeamSite.
 - Gained valuable experience balancing compliance, design, and user needs.
-
----
-
-## 🖼️ Screenshots
-
-[Homepage 2019](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2018.png)
-
-
-```markdown
-![Homepage 2019](./homepage-2019.png)
-```
 
 ---
 
