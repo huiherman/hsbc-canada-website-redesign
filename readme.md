@@ -44,7 +44,7 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 
 ## 🖼️ Screenshots
 
-[Homepage 2019](https://github.com/huiherman/hsbc-canada-website-redesign/raw/main/homepage-2018.png)
+[Homepage 2019](https://github.com/huiherman/hsbc-canada-website-redesign/blob/main/homepage-2018.png)
 
 
 ```markdown
