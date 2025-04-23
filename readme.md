@@ -45,19 +45,12 @@ As the Digital Project Manager, I led the redesign and successful deployment of 
 ## 🖼️ Screenshots
 
 ```markdown
-![Homepage 2019](./homepage-2018.png)
+[![Homepage 2019](./homepage-2018.png)](./homepage-2018.png)
 ```
 
 ```markdown
 ![Homepage 2019](./homepage-2019.png)
 ```
-
----
-
-## 📎 Archived Site Access
-
-- [Main Site – August 2019 Snapshot](https://web.archive.org/web/20190805055759/https://www.hsbc.ca/)
-- [Original HSBC Homepage – March 2018](https://web.archive.org/web/20180301014954/http://www.hsbc.ca/1/2/personal)
 
 ---
 
